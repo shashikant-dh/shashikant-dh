@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashikant
-- 👀 I’m interested in Java, Selenium, Testing
+- 👀 I’m interested in Automation Testing, API Testing, RPA
 - 🌱 I’m currently learning Java & Selnium
 - 💞️ I’m looking to collaborate on Testing in general
 
